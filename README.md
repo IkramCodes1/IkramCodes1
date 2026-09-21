@@ -35,9 +35,6 @@ I enjoy building web applications, working with APIs and databases, and explorin
 
 ### AI & APIs
 - REST APIs
-- Gemini AI
-- OpenAI
-- Whisper
 - AI-powered applications
 - Workflow automation with n8n
 
