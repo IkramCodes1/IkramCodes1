@@ -45,19 +45,7 @@ I enjoy building web applications, working with APIs and databases, and explorin
 
 ## 🚀 Featured Projects
 
-### 🤖 QUALICALL
-AI-powered platform for analyzing and evaluating call-center conversations.
 
-**Technologies:** Vue.js, Vuetify, Laravel, Python, FastAPI, MySQL, Whisper, Gemini AI
-
-- Audio upload and processing
-- Speech-to-text transcription
-- Conversation analysis
-- AI-generated summaries
-- Quality evaluation and scoring
-- Multilingual interface
-
-🔗 [View QUALICALL](https://github.com/IkramCodes1/QUALICALL)
 
 ---
 
